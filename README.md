@@ -1,6 +1,6 @@
-#Rubrics Assessment
+# Rubrics Assessment
 
-#Functionality
+# Functionality
 This project will test folllowing functionality of smart contract:
 - Contract successfully uses require()
 - Contract successfully uses assert()
